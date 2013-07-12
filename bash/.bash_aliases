@@ -4,6 +4,7 @@ alias agu='sudo apt-get update && sudo apt-get upgrade'
 alias acs='apt-cache search'
 alias restart='sudo shutdown -r now'
 alias shutdown='sudo shutdown -h now'
+alias ligthdm-restart='sudo service lightdm restart'
 alias pingrouter='ping -c 5 192.168.1.1'
 alias pinggg='ping -c 5 www.google.no'
 
@@ -11,6 +12,9 @@ alias cp='cp -iv'
 alias mv='mv -iv'
 alias rm='rm -i'
 alias la='ls -alh'
+
+alias sshric='ssh ricardo@rcrosado.com'
+alias gits='git status'
 
 alias pubs='cd ~/Dropbox/NVH/PhD/publications/'
 alias Rdata='cd ~/Dropbox/R\ data/'
