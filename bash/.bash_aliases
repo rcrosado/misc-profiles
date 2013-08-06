@@ -16,8 +16,9 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 
-alias sshric='ssh ricardo@rcrosado.com'
+alias sshric='ssh ricardo@www.rcrosado.com'
 alias gits='git status'
+alias gitl='git log --oneline'
 
 alias pubs='cd ~/Dropbox/NVH/PhD/publications/'
 alias Rdata='cd ~/Dropbox/R\ data/'
